@@ -1,0 +1,18 @@
+// Esto es una prueba
+/* 
+
+
+sadfwe 
+*/
+
+real x = 65
+program y = 45.
+#
+
+if (x < y)
+  print("hola")
+" asdfasdfaefv"
+#
+Hola persona
+cdvasdf sdfadf asd * print("ahsoda")
+. , ; *  ') 
